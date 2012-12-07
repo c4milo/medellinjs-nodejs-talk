@@ -1,0 +1,12 @@
+{
+    "name": "collection",
+    "version": "0.1.0",
+    "engines": {
+        "node": "0.8.x"
+    },
+    "dependencies": {
+      "express": "2.5.11",
+      "cradle": "0.6.4",
+      "ejs": "0.7.2"
+    }
+}
